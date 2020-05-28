@@ -8,18 +8,18 @@
 # print(redwood_elem)
 
 trees = {
-    "normal": 81,
-    "oak": 50,
-    "willow": 52,
-    "teak": 53,
-    "maple": 51,
-    "mahogany": 46,
-    "yew": 59,
-    "magic": 60,
-    "redwood": 63,
+    "normal": 99,
+    "oak": 99,
+    "willow": 99,
+    "teak": 92,
+    "maple": 93,
+    "mahogany": 89,
+    "yew": 99,
+    "magic": 99,
+    "redwood": 99,
 }
 
-current_wc_tokens = 298
+current_wc_tokens = 0
 
 total_mastery = len(trees) * 99
 current_mastery = 0
